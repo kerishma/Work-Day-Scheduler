@@ -39,7 +39,7 @@ THEN the saved events persist
 https://kerishma.github.io/Work-Day-Scheduler/index.html
 
 ### Gif Demo 
-![ Work Day Scheduler Demo]()
+![ Work Day Scheduler Demo](https://github.com/kerishma/Work-Day-Scheduler/blob/master/Work%20Day%20Scheduler.gif)
 
 ## Owner
 Kerishma Tarin
